@@ -1,0 +1,43 @@
+APIs
+1. addBrand,
+2. getAllBrands,
+3. getAllActiveBrands,
+4. updateBrandById,
+5. getBrandsById,
+6. updateBrandsStatus,
+7. deleteBrandsById,
+
+1. addUnit,
+2. getAllUnits,
+3. getAllActiveUnits,
+4. updateUnitById,
+5. getUnitById,
+6. updateUnitStatus
+7. deleteUnitById
+
+1. addCategory,
+2. getAllCategorys,
+3. getAllActiveCategorys,
+4. getAllCategoryWithChaldCategorys,
+5. getAllCategorysByParentId,
+6. getAllActiveCategorysByParentId,
+7. updateCategoryById,
+8. getCategoryById,
+9. updateCategoryStatus,
+10. deleteCategoryById
+
+1. addProduct, 
+2. getAllProducts,
+3. getAllActiveProducts,
+4. updateProductById,
+5. getProductById,
+6. updateProductStatus,
+7. updateProductVarient,
+8. updateProductVarientStock,
+9. deleteProductById,
+10. updateProductVarientStatus,
+11. addProductVarientByProductId
+
+
+
+	
